@@ -1,0 +1,35 @@
+# Site settings
+title: HS Hackers CLT
+location: Charlotte
+description: "Welcome to the High School Hackers CLT meetup group!"
+baseurl: ""
+url: "http://clt.hshackers.org"
+
+# More settings
+accent: "#00a254"
+twitter: "hshackersclt"
+github: "hshackers/clt"
+contact: "hshackersclt at gmail dot com"
+organizers: "Devon Ngo, Andy Kamath, Abby Walker, and Nick Derrico"
+
+# Get Meetup Notifications, visible or hidden
+notifications: "visible"
+
+# Get Meetup Notifications, IFTTT recipie URLs
+email: ""
+gcal: ""
+sms: ""
+android: ""
+ifttt: "http://ifttt.com/"
+
+# Local Meetup Links
+meetup1: "Code For Charlotte"
+meetup1-url: "http://www.meetup.com/Code-For-Charlotte/"
+meetup2: "Shookum Lunch &amp; Learn"
+meetup2-url: "http://www.meetup.com/Skookum-Tech-Talks/"
+meetup3: "More Tech Meetups"
+meetup3-url: "http://www.meetup.com/find/?allMeetups=false&keywords=technology&radius=25&userFreeform=Charlotte%2C+NC&mcId=znull&mcName=Charlotte%2C+NC&sort=default"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
