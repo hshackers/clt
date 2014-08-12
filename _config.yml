@@ -10,13 +10,13 @@ accent: "#00a254"
 twitter: "hshackersclt"
 github: "hshackers/clt"
 contact: "hshackersclt at gmail dot com"
-organizers: "Devon Ngo, Andy Kamath, Abby Walker, and Nick Derrico"
+organizers: "Devon Ngo, Abby Walker, and Nick Derrico"
 
 # Get Meetup Notifications, visible or hidden
 notifications: "visible"
 
 # Get Meetup Notifications, IFTTT recipie URLs
-email: ""
+email: "http://eepurl.com/YILbz"
 gcal: ""
 sms: ""
 android: ""
