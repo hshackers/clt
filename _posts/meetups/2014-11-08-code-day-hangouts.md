@@ -8,7 +8,7 @@ permalink: "/code-day-14/"
 host: "Devon Ngo"
 address: "Google+ Hangouts"
 link: ""
-background: "url(https://fast.wistia.net/embed/iframe/q0z803g4cp)"
+background: "url(http://i.imgur.com/DUFLuhs.jpg)"
 published: true
 ---
 
