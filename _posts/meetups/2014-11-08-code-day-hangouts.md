@@ -1,6 +1,15 @@
 ---
-published: false
-meetups: "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+categories: meetup
+meetup: meetup
+layout: meetup
+title: Code Day Google+ Hangouts
+date: "2014-11-08 11:00:00"
+permalink: "/code-day-14/"
+host: "Devon Ngo"
+address: "Google+ Hangouts"
+link: ""
+background: "url(http://i.imgur.com/tn3Apcw.png)"
+published: true
 ---
 
 ## Code Day 2014
