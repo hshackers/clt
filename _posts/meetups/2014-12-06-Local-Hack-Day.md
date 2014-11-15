@@ -5,7 +5,7 @@ layout: meetup
 title: Local Hack Day
 date: "2014-12-06 9:00:00"
 permalink: "/local-hack-day-2014/"
-host: "Devon Ngo"
+host: "STARS at CPCC"
 address: "1125 Charlottetowne Ave Charlotte, NC 28204"
 link: "http://www.eventbrite.com/e/local-hack-day-cpcc-tickets-14146724233?aff=eorg"
 background: "url(http://localhackday.mlh.io/images/backgrounds/7.jpg)"
