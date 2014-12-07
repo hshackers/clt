@@ -3,7 +3,7 @@ categories: meetup
 meetup: meetup
 layout: meetup
 title: Local Hack Day
-date: "2014-12-06 9:00:00"
+date: "2014-12-06 09:00:00"
 permalink: "/local-hack-day-2014/"
 host: "CPCC STARS <i class='icon-ampersand'></i> IT-Ology"
 address: "CPCC Levine Technology Building, 1125 Charlottetowne Ave, Charlotte"
